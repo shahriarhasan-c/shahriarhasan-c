@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahriar Hasan</h1>
-<h3 align="center">A passionate backend developer</h3>
-👋 Hello there! I'm [Your Name], a passionate Software Engineer with a focus on creating robust and scalable solutions. My expertise lies in the world of .NET technologies, where I wield the power of .NET framework and ASP.NET WebAPI to build powerful backend systems.
+👋 Hello there! I'm Shahriar Hasan, a passionate Software Engineer with a focus on creating robust and scalable solutions. My expertise lies in the world of .NET technologies, where I wield the power of .NET framework and ASP.NET WebAPI to build powerful backend systems.
 
 🚀 On the frontend, I craft seamless and intuitive user experiences using Angular. I believe in the perfect harmony between backend functionality and a delightful user interface.
 
