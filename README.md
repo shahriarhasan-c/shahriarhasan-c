@@ -10,7 +10,7 @@
 🔧 Tech Stack:
 - Languages: C#, JavaScript, TypeScript
 - Frameworks: .NET, ASP.NET WebAPI, Angular
-- Databases: SQL Server, MongoDB
+- Databases: SQL Server
 - Tools: Git, Visual Studio Code, Azure DevOps
 
 📫 Let's connect and discuss all things tech! Whether it's coding, best practices, or the latest tech trends, I'm always up for a good conversation.
