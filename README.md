@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shahriar Hasan</h1>
 <h3 align="center">A passionate backend developer</h3>
+👋 Hello there! I'm [Your Name], a passionate Software Engineer with a focus on creating robust and scalable solutions. My expertise lies in the world of .NET technologies, where I wield the power of .NET framework and ASP.NET WebAPI to build powerful backend systems.
+
+🚀 On the frontend, I craft seamless and intuitive user experiences using Angular. I believe in the perfect harmony between backend functionality and a delightful user interface.
+
+💻 Currently, I'm immersed in the world of coding, constantly exploring new technologies and refining my skills. I love tackling challenges and turning them into opportunities for learning and growth.
+
+🌐 You'll find me actively contributing to open-source projects and sharing my knowledge with the developer community. Collaboration is key, and I enjoy working with fellow developers to build something greater than the sum of its parts.
+
+🔧 Tech Stack:
+- Languages: C#, JavaScript, TypeScript
+- Frameworks: .NET, ASP.NET WebAPI, Angular
+- Databases: SQL Server, MongoDB
+- Tools: Git, Visual Studio Code, Azure DevOps
+
+📫 Let's connect and discuss all things tech! Whether it's coding, best practices, or the latest tech trends, I'm always up for a good conversation.
+
+🌱 Always learning, always coding, and always striving to make the digital world a better place, one line of code at a time.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarhasan-c&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarhasan-c" /> </p>
 
